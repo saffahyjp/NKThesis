@@ -5,6 +5,10 @@
 
 thanks to @darfux
 
+## saffahyjp/NKThesis 的目标
+
+适配 [南开大学研究生学位论文写作规范（修订版）20200311](https://graduate.nankai.edu.cn/2017/0222/c3325a56863/page.htm)
+
 ## 编写
 
 ### 编译方式
